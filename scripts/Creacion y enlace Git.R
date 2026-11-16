@@ -1,7 +1,7 @@
 #===========================================================================================
 #Proyecto: Percepción de la Toma de Dintilhac
 #Objetivo de este script: Crear el sistema de carpetas y enlazar con GitHub
-#Fecha: 15-11-2026
+#Fecha: 14-11-2026
 #==========================================================================================
 
 #Creamos carpetas--------------------------
